@@ -38,6 +38,7 @@ This single file contains both the backend and frontend logic for the user delet
 
 
 
+
 ### Step 2: Challenge Part 2
 
 In the second challenge, we need to assess whether the requirement, "This delete user functionality can be done after authentication," is a good idea or a bad idea. Let's break this down:
@@ -63,5 +64,6 @@ By keeping these two concepts separate, we can create a more secure and robust s
 
 #### Visual Representation
 
-![Authentication and Authorization Flow](Sampleimage.png)
+![Authentication and Authorization Flow](Sample%20image.png)
 
+This image provides a simplified overview of how authentication and authorization should work together to secure user actions.
