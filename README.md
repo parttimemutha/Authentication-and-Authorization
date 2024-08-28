@@ -1,6 +1,4 @@
-### `README.md`
 
-```markdown
 # Delete User Functionality
 
 This project implements a basic "Delete User" functionality in a Node.js application using Express.js. The goal is to provide an example of how to delete a user by their username after authentication and authorization. The functionality also includes a simple frontend interface to interact with this feature.
